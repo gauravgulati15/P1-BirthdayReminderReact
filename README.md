@@ -6,5 +6,9 @@ _BIRTHDAY REMINDER_ PROJECT USING **useState() Hook**
   <img src="Capture.PNG" width="350" title="Birthday Reminder">
 </p>
 
-After Clicking the
-_Clear All_ button
+- After Clicking the
+  _Clear All_ button
+
+<p align="center">
+  <img src="Capture1.PNG" width="350" title="Birthday Reminder">
+</p>
