@@ -1,1 +1,3 @@
-## BIRTHDAY REMINDER PROJECT IN REACT USING useState() Hook
+## React Project 1
+
+BIRTHDAY REMINDER PROJECT USING useState() Hook
